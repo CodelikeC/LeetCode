@@ -1,0 +1,1 @@
+- all the quaility questions for coding interview

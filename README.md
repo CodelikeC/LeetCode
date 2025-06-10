@@ -34,7 +34,7 @@ This repository is distributed under the **MIT License**, allowing free usage an
 If you have alternative approaches or optimized solutions, feel free to fork the repo and submit a pull request! Contributions are always welcome! 🚀
 
 ## 📩 Contact
-For any inquiries or collaboration, reach out via GitHub or email `your-email@example.com`.
+For any inquiries or collaboration, reach out via GitHub or email `ndtribk@gmail.com`.
 
 ---
 

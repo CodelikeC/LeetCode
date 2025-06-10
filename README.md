@@ -1,4 +1,4 @@
-# LeetCode
+# Nguyễn Đức Trí respository
 
 --
 # LeetCode Problem Solving

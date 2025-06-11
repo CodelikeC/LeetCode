@@ -17,11 +17,11 @@ class Solution
 {
     public TreeNode sortedArrayToBST(int[] nums) 
     {
-        return helper (nums, 0, nums=.length -1); 
+        return helper (nums, 0, nums.length -1); 
     }
     public TreeNode helper(int[]nums, int start, int end)
     {
-        if (start -> end)
+        if (start > end)
         {
             return null; 
         }
